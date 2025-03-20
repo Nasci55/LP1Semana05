@@ -15,7 +15,7 @@ namespace LevelOne
 
 
         /// <summary>
-        /// New method doc
+        /// New method doc!
         /// </summary>
         public static void method()
         {
