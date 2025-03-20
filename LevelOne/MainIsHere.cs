@@ -12,5 +12,14 @@ namespace LevelOne
         {
             Console.WriteLine("Hello LP1!");
         }
+
+
+        /// <summary>
+        /// New method doc
+        /// </summary>
+        public static void method()
+        {
+
+        }
     }
 }
