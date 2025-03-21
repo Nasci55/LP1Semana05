@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelTwo", "LevelTwo\LevelT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoGoodLib", "SoGoodLib\SoGoodLib.csproj", "{B0965283-0B0F-469E-808A-B3C402C9C339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStats", "CarStats\CarStats.csproj", "{E8E1BFEB-0857-4502-AA67-23116FEEA445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B0965283-0B0F-469E-808A-B3C402C9C339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0965283-0B0F-469E-808A-B3C402C9C339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0965283-0B0F-469E-808A-B3C402C9C339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E1BFEB-0857-4502-AA67-23116FEEA445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E1BFEB-0857-4502-AA67-23116FEEA445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E1BFEB-0857-4502-AA67-23116FEEA445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E1BFEB-0857-4502-AA67-23116FEEA445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
