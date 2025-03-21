@@ -6,8 +6,8 @@ namespace SoGoodLib
     {
         public static string SoGoodMethod()
         {
-            System.Console.WriteLine("I Came from another project!");
-            return "";
+            //System.Console.WriteLine("I Came from another project!");
+            return "I Came from another project!";
         }
     }
 }

@@ -9,7 +9,7 @@ namespace LevelTwo
     {
         private static void Main(string[] args)
         {
-            SoGoodClass.SoGoodMethod();
+            System.Console.WriteLine(SoGoodClass.SoGoodMethod());
 
             if (args.Length == 0)
             {
