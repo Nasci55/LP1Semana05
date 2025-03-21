@@ -1,6 +1,5 @@
 ﻿using System;
 using Spectre.Console;
-using Spectre.Console;
 using Bogus;
 using Bogus.DataSets;
 using System.ComponentModel;
@@ -27,7 +26,6 @@ namespace CarStats
                 .Label("Car Sales")
                 .CenterLabel()
                 .AddItem(brand, sales)
-
             );
 
 
